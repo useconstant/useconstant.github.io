@@ -1,1 +1,7 @@
-
+body {
+  background-image: url("assets/img/animated-background.GIF"); /* Replace "images/background.jpg" with your actual image path */
+  /* Other background properties (optional) */
+  background-repeat: no-repeat; /* Prevent repeating the image */
+  background-size: cover; /* Scale the image to cover the entire background */
+  background-position: center center; /* Center the image */
+}
